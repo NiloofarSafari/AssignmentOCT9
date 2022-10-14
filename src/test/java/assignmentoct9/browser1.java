@@ -6,7 +6,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class browser1 {
+public class Browser1 {
 
 	public static void main(String[] args) {
 		
